@@ -38,7 +38,17 @@
     "photo": "images/recipe-1.jpg",
     "ease": 2,
     "effort": 2,
-    "occasion": "Weeknight"
+    "occasion": "Weeknight",
+    "nutrition": {
+      "calories": 478,
+      "protein_g": 28,
+      "carbs_g": null,
+      "fat_g": null,
+      "fiber_g": null,
+      "sodium_mg": null,
+      "basis": "per serving",
+      "source": "Existing cookbook transcription; verify against photographed nutrition panel"
+    }
   },
   {
     "id": "R002",
@@ -72,7 +82,17 @@
     "photo": "images/recipe-2.jpg",
     "ease": 1,
     "effort": 1,
-    "occasion": "Weeknight"
+    "occasion": "Weeknight",
+    "nutrition": {
+      "calories": 298,
+      "protein_g": 25,
+      "carbs_g": null,
+      "fat_g": null,
+      "fiber_g": null,
+      "sodium_mg": null,
+      "basis": "per serving",
+      "source": "Existing cookbook transcription; verify against photographed nutrition panel"
+    }
   },
   {
     "id": "R003",
@@ -107,7 +127,17 @@
     "photo": "images/recipe-3.jpg",
     "ease": 3,
     "effort": 3,
-    "occasion": "Weekend project"
+    "occasion": "Weekend project",
+    "nutrition": {
+      "calories": 285,
+      "protein_g": 21,
+      "carbs_g": null,
+      "fat_g": null,
+      "fiber_g": null,
+      "sodium_mg": null,
+      "basis": "per serving",
+      "source": "Existing cookbook transcription; verify against photographed nutrition panel"
+    }
   },
   {
     "id": "R004",
@@ -144,7 +174,17 @@
     "photo": "images/recipe-4.jpg",
     "ease": 3,
     "effort": 2,
-    "occasion": "Weekend project"
+    "occasion": "Weekend project",
+    "nutrition": {
+      "calories": 184,
+      "protein_g": 10,
+      "carbs_g": null,
+      "fat_g": null,
+      "fiber_g": null,
+      "sodium_mg": null,
+      "basis": "per serving",
+      "source": "Existing cookbook transcription; verify against photographed nutrition panel"
+    }
   },
   {
     "id": "R005",
@@ -184,7 +224,17 @@
     "photo": "images/recipe-5.jpg",
     "ease": 2,
     "effort": 2,
-    "occasion": "Weeknight"
+    "occasion": "Weeknight",
+    "nutrition": {
+      "calories": 245,
+      "protein_g": 21,
+      "carbs_g": null,
+      "fat_g": null,
+      "fiber_g": null,
+      "sodium_mg": null,
+      "basis": "per serving",
+      "source": "Existing cookbook transcription; verify against photographed nutrition panel"
+    }
   },
   {
     "id": "R006",
@@ -227,7 +277,17 @@
     "photo": "images/recipe-6.jpg",
     "ease": 3,
     "effort": 3,
-    "occasion": "Weekend project"
+    "occasion": "Weekend project",
+    "nutrition": {
+      "calories": 420,
+      "protein_g": 37,
+      "carbs_g": null,
+      "fat_g": null,
+      "fiber_g": null,
+      "sodium_mg": null,
+      "basis": "per serving",
+      "source": "Existing cookbook transcription; verify against photographed nutrition panel"
+    }
   },
   {
     "id": "R007",
@@ -263,6 +323,16 @@
     "photo": "images/recipe-7.jpg",
     "ease": 2,
     "effort": 2,
-    "occasion": "Quick bite"
+    "occasion": "Quick bite",
+    "nutrition": {
+      "calories": 313,
+      "protein_g": 12,
+      "carbs_g": null,
+      "fat_g": null,
+      "fiber_g": null,
+      "sodium_mg": null,
+      "basis": "per serving",
+      "source": "Existing cookbook transcription; verify against photographed nutrition panel"
+    }
   }
 ]
