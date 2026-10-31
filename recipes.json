@@ -42,12 +42,12 @@
     "nutrition": {
       "calories": 478,
       "protein_g": 28,
-      "carbs_g": null,
-      "fat_g": null,
-      "fiber_g": null,
-      "sodium_mg": null,
+      "carbs_g": 52,
+      "fat_g": 18,
+      "fiber_g": 6,
+      "sodium_mg": 236,
       "basis": "per serving",
-      "source": "Existing cookbook transcription; verify against photographed nutrition panel"
+      "source": "Published nutrition panel in original EatingWell recipe photograph"
     }
   },
   {
@@ -86,12 +86,12 @@
     "nutrition": {
       "calories": 298,
       "protein_g": 25,
-      "carbs_g": null,
-      "fat_g": null,
-      "fiber_g": null,
-      "sodium_mg": null,
+      "carbs_g": 5,
+      "fat_g": 18,
+      "fiber_g": 1,
+      "sodium_mg": 261,
       "basis": "per serving",
-      "source": "Existing cookbook transcription; verify against photographed nutrition panel"
+      "source": "Published nutrition panel in original EatingWell recipe photograph"
     }
   },
   {
@@ -131,12 +131,12 @@
     "nutrition": {
       "calories": 285,
       "protein_g": 21,
-      "carbs_g": null,
-      "fat_g": null,
-      "fiber_g": null,
-      "sodium_mg": null,
+      "carbs_g": 2,
+      "fat_g": 21,
+      "fiber_g": 1,
+      "sodium_mg": 417,
       "basis": "per serving",
-      "source": "Existing cookbook transcription; verify against photographed nutrition panel"
+      "source": "Published nutrition panel in original EatingWell recipe photograph"
     }
   },
   {
@@ -178,12 +178,12 @@
     "nutrition": {
       "calories": 184,
       "protein_g": 10,
-      "carbs_g": null,
-      "fat_g": null,
-      "fiber_g": null,
-      "sodium_mg": null,
+      "carbs_g": 3,
+      "fat_g": 14,
+      "fiber_g": 0,
+      "sodium_mg": 254,
       "basis": "per serving",
-      "source": "Existing cookbook transcription; verify against photographed nutrition panel"
+      "source": "Published nutrition panel in original EatingWell recipe photograph"
     }
   },
   {
@@ -228,12 +228,12 @@
     "nutrition": {
       "calories": 245,
       "protein_g": 21,
-      "carbs_g": null,
-      "fat_g": null,
-      "fiber_g": null,
-      "sodium_mg": null,
+      "carbs_g": 24,
+      "fat_g": 7,
+      "fiber_g": 5,
+      "sodium_mg": 639,
       "basis": "per serving",
-      "source": "Existing cookbook transcription; verify against photographed nutrition panel"
+      "source": "Published nutrition panel in original EatingWell recipe photograph"
     }
   },
   {
@@ -281,12 +281,12 @@
     "nutrition": {
       "calories": 420,
       "protein_g": 37,
-      "carbs_g": null,
-      "fat_g": null,
-      "fiber_g": null,
-      "sodium_mg": null,
+      "carbs_g": 27,
+      "fat_g": 19,
+      "fiber_g": 5,
+      "sodium_mg": 564,
       "basis": "per serving",
-      "source": "Existing cookbook transcription; verify against photographed nutrition panel"
+      "source": "Published nutrition panel in original EatingWell recipe photograph"
     }
   },
   {
@@ -327,12 +327,12 @@
     "nutrition": {
       "calories": 313,
       "protein_g": 12,
-      "carbs_g": null,
-      "fat_g": null,
-      "fiber_g": null,
-      "sodium_mg": null,
+      "carbs_g": 26,
+      "fat_g": 18,
+      "fiber_g": 3,
+      "sodium_mg": 431,
       "basis": "per serving",
-      "source": "Existing cookbook transcription; verify against photographed nutrition panel"
+      "source": "Published nutrition panel in original EatingWell recipe photograph"
     }
   }
 ]
